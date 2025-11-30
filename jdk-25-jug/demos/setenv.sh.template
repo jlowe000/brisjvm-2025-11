@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Update github clone
+export ROOT_HOME=<GITHUB REPO HOME>/jdk-25-jug
+
+# Update OpenJDK versions of JDK 11 and JDK 25 (will require JDK to compile)
+export JAVA_11_HOME=${ROOT_HOME}/jdk-11.0.2
+export JAVA_25_HOME=${ROOT_HOME}/jdk-25.0.1
