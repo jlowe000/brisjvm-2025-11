@@ -26,6 +26,8 @@
      |__________________________|
     /                            \
 
+NB: Some of the content was AI generated. All code has been compiled and was running at the point in time of the User Group event.
+
 ### Overview
 
 Java 25 (statistics):
@@ -515,5 +517,6 @@ Since Java 25 is LTS. Recommended approach:
     \\\\                                                                        ////
     \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////////////////////
     \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////////////////////
+
 
 
